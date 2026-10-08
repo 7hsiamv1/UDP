@@ -1,0 +1,5 @@
+Flask==3.0.0
+httpx==0.25.0
+pycryptodome==3.19.0
+google-play-scraper==1.2.4
+protobuf==4.25.1
